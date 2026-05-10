@@ -1,7 +1,6 @@
 {
     "name": "MLOKit",
     "version": "0.0.1",
-    "uuid": "a1b2c3d4-e5f6-7890-1234-abcdef567890",
     "command": "mlokit",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/MLOKit",
